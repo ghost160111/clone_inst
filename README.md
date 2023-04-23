@@ -4,25 +4,25 @@
 
 # Syntax of it as it follows:
 
-* SYNTAX:
+SYNTAX:
 
 - Contibutor: 'Your Name'
 - Date: 'Todays date like 4/20/2023'
 - Title: 'Sample title'
 - Message: 'Sample message'
 
-* END OF SYNTAX.
+END OF SYNTAX.
 
 # DOCUMENTATION STARTS FROM HERE
 
-* START...
+START...
 
 
-* DOC
+DOC
 
 - Contributor: 'Jaloliddin'
 - Date: 4/20/2023
 - Title: 'Initiated our project'
 - Message: 'Today we started our project and we are going to work on cloning instagram which is not so easy to make, but we are going to make it happen!!!'
 
-* END DOC
+END DOC
